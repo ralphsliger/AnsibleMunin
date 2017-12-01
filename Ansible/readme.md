@@ -22,6 +22,6 @@ ansible-playbook -i hosts install_apache.yml
 
 ### Instalación Munin
 
-utilizamos el sguiente comando en nuestra consola : 
+utilizamos el siguiente comando en nuestra consola : 
 
 ansible-playbook -i hosts install_munin.yml
