@@ -9,7 +9,7 @@ Usamos el siguiente comando en nuestra consola:
                
                docker build -t server:16.04 .
 
-## Segundo paso, despliege
+## Segundo paso, Desplegar 
 
 Ahora debes crear una maquinas para el despliegue, se creará  un servidor Apache.
 
@@ -17,7 +17,7 @@ Usamos el siguiente comando en nuestra consola:
 
 docker run -d -P --name munin_web_server -p 2221:22 -p 80:80 server:16.04 
 
-# tercer paso,Adicionar las llaves ssh</h3>
+# Tercer paso, Adicionar las llaves ssh</h3>
 
 Usamos los siguientes comandos en nuestra consola: 
 
