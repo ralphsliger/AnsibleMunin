@@ -1,7 +1,5 @@
 
-# Instalacion munin
-
-Implementación
+# Implementación:
 
 1) Primero se accede a la carpeta inicio por medio de la terminal y se sigue las instrucciones.
 
