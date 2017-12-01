@@ -1,4 +1,4 @@
-# Cofiguración de Ansible
+# Configuración de Ansible
 
 
 Se instalaran  y configuraran estos  2 servicios : 
